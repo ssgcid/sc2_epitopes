@@ -1,4 +1,4 @@
-# sc2_epitopes
+# Epitope charts creator
 
 This software comes in the form of a Jupyter Notebook file that can be opened and executed directly from the Anaconda Navigator. The input file is included in this repository and must reside in the same directory as the Notebook file.
 
